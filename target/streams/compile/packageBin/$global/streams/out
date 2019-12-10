@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/gjwills/Documents/Georgetown/Senior_Spring/Big_Data/spark_disk/PageRank/target/scala-2.11/pagerank_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gjwills/Documents/Georgetown/Senior_Spring/Big_Data/spark_disk/PageRank/target/scala-2.11/classes/PageRank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$3$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gjwills/Documents/Georgetown/Senior_Spring/Big_Data/spark_disk/PageRank/target/scala-2.11/classes/PageRank$$anonfun$3$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gjwills/Documents/Georgetown/Senior_Spring/Big_Data/spark_disk/PageRank/target/scala-2.11/classes/PageRank$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gjwills/Documents/Georgetown/Senior_Spring/Big_Data/spark_disk/PageRank/target/scala-2.11/classes/PageRank$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gjwills/Documents/Georgetown/Senior_Spring/Big_Data/spark_disk/PageRank/target/scala-2.11/classes/PageRank$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gjwills/Documents/Georgetown/Senior_Spring/Big_Data/spark_disk/PageRank/target/scala-2.11/classes/PageRank$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gjwills/Documents/Georgetown/Senior_Spring/Big_Data/spark_disk/PageRank/target/scala-2.11/classes/PageRank$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gjwills/Documents/Georgetown/Senior_Spring/Big_Data/spark_disk/PageRank/target/scala-2.11/classes/PageRank$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gjwills/Documents/Georgetown/Senior_Spring/Big_Data/spark_disk/PageRank/target/scala-2.11/classes/PageRank$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gjwills/Documents/Georgetown/Senior_Spring/Big_Data/spark_disk/PageRank/target/scala-2.11/classes/PageRank$$anonfun$main$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
